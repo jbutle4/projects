@@ -1,0 +1,13 @@
+{
+  "clientId": "57ccde4aa9144df180213e950c9a9464",
+  "defaultEnvironment": "PRODUCTION",
+  "imsTokenUrl": "https://ims-na1.adobelogin.com/ims/token/v3",
+  "scope": "openid,AdobeID,email,profile,additional_info.roles,additional_info.projectedProductContext,commerce.accs",
+  "restHost": "https://na1.api.commerce.adobe.com",
+  "tenants": {
+    "DEV": "JZTG7BaEUkyB9oWTNxEzEq",
+    "STAGE": "UAEyTrirS4qBMAWYZa4uic",
+    "PRODUCTION": "VLuKe3eeTwf1D5oxmLBfcr"
+  },
+  "secretEnvVar": "ADOBE_COMMERCE_CLIENT_SECRET"
+}
